@@ -8,9 +8,9 @@ Computer Science student at UiTM interested in software engineering and AI.
 - My FYP area: [your area, or "still deciding"]
 
 ## Skills and tools
-DellEMC Networker
-Veritas Netbackup
-DellEMC DataDomain
+- DellEMC Networker
+- Veritas Netbackup
+- DellEMC DataDomain
 
 ## Projects
 - [Project name](link-to-your-repository): one sentence about it
