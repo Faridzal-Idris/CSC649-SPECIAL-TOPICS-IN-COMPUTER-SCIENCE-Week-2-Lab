@@ -3,7 +3,7 @@
 Computer Science student at UiTM interested in software engineering and AI.
 
 ## About me
-- Studying: CS320, UiTM
+- Studying: CS230, UiTM
 - Currently learning: Special Topics In Computer Science
 - My FYP area: [your area, or "still deciding"]
 
