@@ -3,8 +3,6 @@
 Backup and Storage Engineer with more than 15 years of experience in managing enterprise backup and storage systems for international clients. Has a strong exposure on Traditional Data Centre backup and storage client environments.
 Also a Computer Science student at UiTM interested in software engineering and AI.
 
-myLinkedin : https://www.linkedin.com/in/muhammad-faridzal-idris-47a01b32/
-
 ## About me
 - Studying: CS230, UiTM
 - Currently learning: Special Topics In Computer Science
